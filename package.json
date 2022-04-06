@@ -1,0 +1,22 @@
+{
+  "name": "startpage_1",
+  "version": "1.0.0",
+  "description": "starter_page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squirtleturtle02/STARTPAGE_1.git"
+  },
+  "author": "manny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squirtleturtle02/STARTPAGE_1/issues"
+  },
+  "homepage": "https://github.com/squirtleturtle02/STARTPAGE_1#readme",
+  "dependencies": {
+    "reload": "^3.2.0"
+  }
+}
